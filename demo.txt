@@ -1,0 +1,18 @@
+create the new folder in githu folder
+create the new file
+to modify the all file using below command
+"git add ."
+to modify a one file using below command
+"git add filename(demo.txt)"
+to commit the file using the command
+"git commit -m "MESSAGE" "
+to transfer the file in git REPOSITORY
+1. create a new REPOSITORY in git
+2. to enter the command in visual CODE
+"git remote add origin "link copy and paste" "
+to know the branch using below command
+"git branch"
+to change the branch name
+"git branch -M main(branch name) "
+to push the command in GIT
+"git push origin main"
